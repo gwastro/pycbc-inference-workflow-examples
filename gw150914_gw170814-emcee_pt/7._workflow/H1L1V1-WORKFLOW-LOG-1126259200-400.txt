@@ -1,0 +1,50 @@
+2020-06-24 11:15:02,291:INFO : Created log file /work/cdcapano/projects/example_inference_workflows/inference_workflow/inference-gw150914_gw170814_output/results/7._workflow/H1L1V1-WORKFLOW-LOG-1126259200-400.txt
+2020-06-24 11:15:02,291:INFO : Reading configuration file
+2020-06-24 11:15:02,293:INFO : Overriding section results_page option output-path with value /work/cdcapano/WWW/scratch/inference_workflow_docs/inference/inference-gw150914_gw170814 in configuration.
+2020-06-24 11:15:02,294:INFO : Reading configuration file
+2020-06-24 11:15:02,297:INFO : Overriding section data option trigger-time with value 1126259462.413 in configuration.
+2020-06-24 11:15:02,297:INFO : Overriding section data option analysis-start-time with value -6 in configuration.
+2020-06-24 11:15:02,297:INFO : Overriding section data option analysis-end-time with value 2 in configuration.
+2020-06-24 11:15:02,338:INFO : Using inference executable at /work/cdcapano/virtualenv/py37-pycbc-v1.16.4/bin/run_pycbc_inference on site local
+2020-06-24 11:15:02,348:INFO : Using extract_posterior executable at /work/cdcapano/virtualenv/py37-pycbc-v1.16.4/bin/pycbc_inference_extract_samples on site local
+2020-06-24 11:15:02,360:INFO : Using table_summary executable at /work/cdcapano/virtualenv/py37-pycbc-v1.16.4/bin/pycbc_inference_table_summary on site local
+2020-06-24 11:15:02,372:INFO : Using plot_posterior_summary executable at /work/cdcapano/virtualenv/py37-pycbc-v1.16.4/bin/pycbc_inference_plot_posterior on site local
+2020-06-24 11:15:02,386:INFO : Using plot_posterior_summary executable at /work/cdcapano/virtualenv/py37-pycbc-v1.16.4/bin/pycbc_inference_plot_posterior on site local
+2020-06-24 11:15:02,400:INFO : Using plot_posterior_summary executable at /work/cdcapano/virtualenv/py37-pycbc-v1.16.4/bin/pycbc_inference_plot_posterior on site local
+2020-06-24 11:15:02,409:INFO : Using create_fits_file executable at /work/cdcapano/virtualenv/py37-pycbc-v1.16.4/bin/pycbc_inference_create_fits on site local
+2020-06-24 11:15:02,419:INFO : Using plot_skymap executable at /work/cdcapano/virtualenv/py37-pycbc-v1.16.4/bin/pycbc_inference_plot_skymap on site local
+2020-06-24 11:15:02,430:INFO : Using plot_prior executable at /work/cdcapano/virtualenv/py37-pycbc-v1.16.4/bin/pycbc_inference_plot_prior on site local
+2020-06-24 11:15:02,464:INFO : Using plot_posterior executable at /work/cdcapano/virtualenv/py37-pycbc-v1.16.4/bin/pycbc_inference_plot_posterior on site local
+2020-06-24 11:15:02,477:INFO : Using plot_posterior executable at /work/cdcapano/virtualenv/py37-pycbc-v1.16.4/bin/pycbc_inference_plot_posterior on site local
+2020-06-24 11:15:02,490:INFO : Using plot_posterior executable at /work/cdcapano/virtualenv/py37-pycbc-v1.16.4/bin/pycbc_inference_plot_posterior on site local
+2020-06-24 11:15:02,524:INFO : Using plot_samples executable at /work/cdcapano/virtualenv/py37-pycbc-v1.16.4/bin/pycbc_inference_plot_samples on site local
+2020-06-24 11:15:02,537:INFO : Using plot_samples executable at /work/cdcapano/virtualenv/py37-pycbc-v1.16.4/bin/pycbc_inference_plot_samples on site local
+2020-06-24 11:15:02,571:INFO : Using plot_acceptance_rate executable at /work/cdcapano/virtualenv/py37-pycbc-v1.16.4/bin/pycbc_inference_plot_acceptance_rate on site local
+2020-06-24 11:15:02,583:INFO : Using plot_acceptance_rate executable at /work/cdcapano/virtualenv/py37-pycbc-v1.16.4/bin/pycbc_inference_plot_acceptance_rate on site local
+2020-06-24 11:15:02,614:INFO : Using plot_spectrum executable at /work/cdcapano/virtualenv/py37-pycbc-v1.16.4/bin/pycbc_plot_psd_file on site local
+2020-06-24 11:15:02,656:INFO : Reading configuration file
+2020-06-24 11:15:02,659:INFO : Overriding section results_page option output-path with value /work/cdcapano/WWW/scratch/inference_workflow_docs/inference/inference-gw150914_gw170814 in configuration.
+2020-06-24 11:15:02,660:INFO : Reading configuration file
+2020-06-24 11:15:02,662:INFO : Overriding section data option trigger-time with value 1186741861.533 in configuration.
+2020-06-24 11:15:02,662:INFO : Overriding section data option analysis-start-time with value -6 in configuration.
+2020-06-24 11:15:02,662:INFO : Overriding section data option analysis-end-time with value 2 in configuration.
+2020-06-24 11:15:02,680:INFO : Using inference executable at /work/cdcapano/virtualenv/py37-pycbc-v1.16.4/bin/run_pycbc_inference on site local
+2020-06-24 11:15:02,691:INFO : Using extract_posterior executable at /work/cdcapano/virtualenv/py37-pycbc-v1.16.4/bin/pycbc_inference_extract_samples on site local
+2020-06-24 11:15:02,704:INFO : Using table_summary executable at /work/cdcapano/virtualenv/py37-pycbc-v1.16.4/bin/pycbc_inference_table_summary on site local
+2020-06-24 11:15:02,717:INFO : Using plot_posterior_summary executable at /work/cdcapano/virtualenv/py37-pycbc-v1.16.4/bin/pycbc_inference_plot_posterior on site local
+2020-06-24 11:15:02,731:INFO : Using plot_posterior_summary executable at /work/cdcapano/virtualenv/py37-pycbc-v1.16.4/bin/pycbc_inference_plot_posterior on site local
+2020-06-24 11:15:02,746:INFO : Using plot_posterior_summary executable at /work/cdcapano/virtualenv/py37-pycbc-v1.16.4/bin/pycbc_inference_plot_posterior on site local
+2020-06-24 11:15:02,757:INFO : Using create_fits_file executable at /work/cdcapano/virtualenv/py37-pycbc-v1.16.4/bin/pycbc_inference_create_fits on site local
+2020-06-24 11:15:02,766:INFO : Using plot_skymap executable at /work/cdcapano/virtualenv/py37-pycbc-v1.16.4/bin/pycbc_inference_plot_skymap on site local
+2020-06-24 11:15:02,774:INFO : Using plot_prior executable at /work/cdcapano/virtualenv/py37-pycbc-v1.16.4/bin/pycbc_inference_plot_prior on site local
+2020-06-24 11:15:02,802:INFO : Using plot_posterior executable at /work/cdcapano/virtualenv/py37-pycbc-v1.16.4/bin/pycbc_inference_plot_posterior on site local
+2020-06-24 11:15:02,816:INFO : Using plot_posterior executable at /work/cdcapano/virtualenv/py37-pycbc-v1.16.4/bin/pycbc_inference_plot_posterior on site local
+2020-06-24 11:15:02,831:INFO : Using plot_posterior executable at /work/cdcapano/virtualenv/py37-pycbc-v1.16.4/bin/pycbc_inference_plot_posterior on site local
+2020-06-24 11:15:02,866:INFO : Using plot_samples executable at /work/cdcapano/virtualenv/py37-pycbc-v1.16.4/bin/pycbc_inference_plot_samples on site local
+2020-06-24 11:15:02,880:INFO : Using plot_samples executable at /work/cdcapano/virtualenv/py37-pycbc-v1.16.4/bin/pycbc_inference_plot_samples on site local
+2020-06-24 11:15:02,915:INFO : Using plot_acceptance_rate executable at /work/cdcapano/virtualenv/py37-pycbc-v1.16.4/bin/pycbc_inference_plot_acceptance_rate on site local
+2020-06-24 11:15:02,929:INFO : Using plot_acceptance_rate executable at /work/cdcapano/virtualenv/py37-pycbc-v1.16.4/bin/pycbc_inference_plot_acceptance_rate on site local
+2020-06-24 11:15:02,962:INFO : Using plot_spectrum executable at /work/cdcapano/virtualenv/py37-pycbc-v1.16.4/bin/pycbc_plot_psd_file on site local
+2020-06-24 11:15:03,009:INFO : Entering versioning module
+2020-06-24 11:15:23,250:INFO : Leaving versioning module
+2020-06-24 11:15:23,251:INFO : Using results_page executable at /work/cdcapano/virtualenv/py37-pycbc-v1.16.4/bin/pycbc_make_html_page on site local
